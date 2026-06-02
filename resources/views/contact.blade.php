@@ -8,12 +8,12 @@
 </head>
 
 <body>
-<nav>
+    <nav>
         <a href="/">Home</a>
         <a href="/about">About</a>
         <a href="/contact">Contact</a>
     </nav>
-    <h1>About Page</h1>
+    <h1>Contact Page</h1>
 </body>
 
 </html>
